@@ -1,0 +1,27 @@
+*.class
+
+# Package Files #
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.project
+.gradle
+.idea
+/build
+.classpath
+.DS_Store
+
+.settings/
+build/
+out/
+classes/
+*log*/
+target/*
+*/target/*
+*.log
+*~
+
